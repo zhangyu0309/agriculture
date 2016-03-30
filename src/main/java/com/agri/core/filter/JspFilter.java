@@ -17,7 +17,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import com.agri.core.common.AuthorityCommon;
-import com.agri.core.util.JsonUtils;
 import com.agri.platform.authority.bean.Authority;
 /**
  * 主要是用于直接访问JSP页面的时候判断是否有用户的登录
